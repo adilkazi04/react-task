@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "service1.png",
+      "title": "Online Teaching",
+      "description": "With online learning programs, parents can teach their kids anytime and anywhere."
+    },
+    {
+      "id": 2,
+      "image": "service1.png",
+      "title": "Live Classes",
+      "description": "Although live class ideas are already prevalent and established education business."
+    },
+    {
+      "id": 3,
+      "image": "service1.png",
+      "title": "Visual Concepts",
+      "description": "Teaching is a passion and experts want to share their expertise outside of the institutional sphere."
+    },
+    {
+      "id": 4,
+      "image": "service1.png",
+      "title": "Gamified Course",
+      "description": "With online learning programs, parents can teach their kids anytime and anywhere."
+    },
+    {
+      "id": 5,
+      "image": "service1.png",
+      "title": "Visual Concepts",
+      "description": "Teaching is a passion and experts want to share their expertise outside of the institutional sphere."
+    },
+    {
+      "id": 6,
+      "image": "service1.png",
+      "title": "Live Classes",
+      "description": "Although live class ideas are already prevalent and established education business."
+    }
+  ]
+  
